@@ -5,10 +5,13 @@ O usuário deve escolhar qual operação matemática o código deve realizar, e 
 
 ## Tecnologias usadas:
 
-**Operadores de decisão:**
+**Classes Java:**
+
+- `Scanner`
+
+**Controle de fluxo:**
 
 - `if`
-- `Scanner`
 - `Switch case`
 - `default`
 
